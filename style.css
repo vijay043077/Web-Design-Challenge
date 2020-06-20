@@ -61,7 +61,7 @@ p {
 .table, .table-responsive {
     font-size: 15px; 
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: inherit;
+    padding: 30px;
     border-top-color: white;
     margin-top: inherit;
     margin-bottom: inherit;
